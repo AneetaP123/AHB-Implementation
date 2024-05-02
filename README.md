@@ -16,12 +16,14 @@ AMBA AHB implements the features required for high-performance, high clock frequ
 
 • Configurable address bus width​
 
-AHP Block diagram
+## **AHP Block diagram**
+
 The most common AHB Subordinates are internal memory devices, external memory interfaces, and high-bandwidth peripherals. ​
 
 AHB also supports multi-Manager designs by the use of an interconnect component that provides arbitration and routing signals from different Managers to the appropriate Subordinates.​
 
-Interconnect
+## **Interconnect**
+
 An interconnect component provides the connection between Managers and Subordinates in a system.​
 
 A multi-Manager system requires the use of an interconnect that provides arbitration and the routing of signals from different Managers to the appropriate Subordinates. This routing is required for address, control, and write data signaling​
