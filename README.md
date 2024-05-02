@@ -1,4 +1,5 @@
-AHP – Advanced High Performance Bus​
+# **AHP – Advanced High Performance Bus​**
+
 AMBA AHB is a bus interface suitable for high-performance synthesizable designs. ​
 
 It defines the interface between components, such as Managers, interconnects, and Subordinates. ​
